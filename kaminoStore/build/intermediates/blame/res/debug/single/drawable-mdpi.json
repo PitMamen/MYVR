@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MYVR\\kaminoStore\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sence_light3.png",
+        "source": "D:\\MYVR\\kaminoStore\\src\\main\\res\\drawable-mdpi\\sence_light3.png"
+    },
+    {
+        "merged": "D:\\MYVR\\kaminoStore\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\MYVR\\kaminoStore\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MYVR\\kaminoStore\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_store_default.png",
+        "source": "D:\\MYVR\\kaminoStore\\src\\main\\res\\drawable-mdpi\\ic_store_default.png"
+    }
+]

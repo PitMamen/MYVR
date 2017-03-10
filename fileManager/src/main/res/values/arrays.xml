@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Video</item>
+        <item>Picture</item>
+        <item>Apk</item>
+    </string-array>
+    <string-array name="kinds">
+        <item>Video</item>
+        <item>Picture</item>
+        <item>Apk</item>
+        <item>Music</item>
+    </string-array>
+    <string-array name="storages">
+        <item>Internal</item>
+        <item>SD Cards</item>
+        <item>U Disk</item>
+    </string-array>
+    <string-array name="contents">
+        <item>Internal:</item>
+        <item>SD Cards:</item>
+        <item>U Disk:</item>
+    </string-array>
+
+    <string-array name="showstorages">
+        <item>Internal:</item>
+        <item>SD Cards:</item>
+        <item>U Disk:</item>
+    </string-array>
+
+    <string-array name="showsize">
+        <item>Surplus:</item>
+        <item>Total:</item>
+    </string-array>
+</resources>

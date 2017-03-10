@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MYVR\\kaminoStore\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\sence_light3.png",
+        "source": "D:\\MYVR\\kaminoStore\\src\\main\\res\\drawable-nodpi\\sence_light3.png"
+    },
+    {
+        "merged": "D:\\MYVR\\kaminoStore\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\ic_store_default.png",
+        "source": "D:\\MYVR\\kaminoStore\\src\\main\\res\\drawable-nodpi\\ic_store_default.png"
+    },
+    {
+        "merged": "D:\\MYVR\\kaminoStore\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\bg.png",
+        "source": "D:\\MYVR\\kaminoStore\\src\\main\\res\\drawable-nodpi\\bg.png"
+    },
+    {
+        "merged": "D:\\MYVR\\kaminoStore\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\homeitembk_normal.png",
+        "source": "D:\\MYVR\\kaminoStore\\src\\main\\res\\drawable-nodpi\\homeitembk_normal.png"
+    }
+]

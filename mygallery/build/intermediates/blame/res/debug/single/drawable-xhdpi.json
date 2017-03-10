@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sound.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\sound.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_wifi_2.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_wifi_2.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sd.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\sd.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_bluetooth_off.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_bluetooth_off.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\headset.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\headset.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sdcard_out.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_sdcard_out.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sdcard.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_sdcard.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\power_run.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\power_run.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_wifi_off.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_wifi_off.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_wifi_3.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_wifi_3.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_bluetooth_connected.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_bluetooth_connected.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_bluetooth_on.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_bluetooth_on.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_wifi_1.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_wifi_1.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_wifi_4.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_wifi_4.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\wifi.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\wifi.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_wifi.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_wifi.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_sdcard_in.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xhdpi\\ic_sdcard_in.png"
+    }
+]

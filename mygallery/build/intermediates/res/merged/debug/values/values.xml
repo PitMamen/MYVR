@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_trans">#50000000</color>
+    <color name="blue">#ff0a93f4</color>
+    <color name="text_color">#ffeeeeee</color>
+    <color name="text_color_grey">#ff8b8b8b</color>
+    <color name="white">#ffffffff</color>
+    <item name="main_view" type="id">false</item>
+    <string name="app_name">Gallerys</string>
+    <string name="no_more_first">This is the first picture</string>
+    <string name="no_more_last">This is the last picture</string>
+    <string name="no_pictures">No photos were detected</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light"/>
+    <style name="AppTheme" parent="@style/AppBaseTheme"/>
+</resources>

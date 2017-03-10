@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons_default">
+        <item>@drawable/icon01</item>
+        <item>@drawable/icon02</item>
+        <item>@drawable/icon04</item>
+        <item>@drawable/icon05</item>
+        <item>@drawable/icon06</item>
+    </array>
+    <array name="icons_focused">
+        <item>@drawable/icon01_b</item>
+        <item>@drawable/icon02_b</item>
+        <item>@drawable/icon04_b</item>
+        <item>@drawable/icon05_b</item>
+        <item>@drawable/icon06_b</item>
+    </array>
+    <array name="tool_icons_default_hdmi">
+        <item>@drawable/ic_settings_default</item>
+        <item>@drawable/ic_local_player_default</item>
+        <item>@drawable/ic_store_default</item>
+        <item>@drawable/ic_hdmi_default</item>
+        <item>@drawable/ic_file_default</item>
+    </array>
+    <array name="tool_icons_focused_hdmi">
+        <item>@drawable/ic_settings_focused</item>
+        <item>@drawable/ic_local_player_focused</item>
+        <item>@drawable/ic_store_focused</item>
+        <item>@drawable/ic_hdmi_focused</item>
+        <item>@drawable/ic_file_focused</item>
+    </array>
+    <array name="tool_icons_default">
+        <item>@drawable/ic_settings_default</item>
+        <item>@drawable/ic_local_player_default</item>
+        <item>@drawable/ic_store_default</item>
+        <item>@drawable/ic_file_default</item>
+    </array>
+    <array name="tool_icons_focused">
+        <item>@drawable/ic_settings_focused</item>
+        <item>@drawable/ic_local_player_focused</item>
+        <item>@drawable/ic_store_focused</item>
+        <item>@drawable/ic_file_focused</item>
+    </array>
+    <array name="setting_icons_default">
+        <item>@drawable/ic_settings_default</item>
+        <item>@drawable/ic_local_player_default</item>
+        <item>@drawable/ic_store_default</item>
+        <item>@drawable/ic_file_default</item>
+        <item>@drawable/ic_local_default</item>
+    </array>
+    <array name="setting_icons_focused">
+        <item>@drawable/ic_settings_focused</item>
+        <item>@drawable/ic_local_player_focused</item>
+        <item>@drawable/ic_store_focused</item>
+        <item>@drawable/ic_file_focused</item>
+        <item>@drawable/ic_local_focused</item>
+    </array>
+    <array name="icons_yashi_default">
+        <item>@drawable/ic_local_default</item>
+        <item>@drawable/ic_media_default</item>
+        <item>@drawable/ic_camera_default</item>
+        <item>@drawable/ic_store_default</item>
+        <item>@drawable/ic_settings_default</item>
+    </array>
+    <array name="icons_yashi_focused">
+        <item>@drawable/ic_local_focused</item>
+        <item>@drawable/ic_media_focused</item>
+        <item>@drawable/ic_camera_focused</item>
+        <item>@drawable/ic_store_focused</item>
+        <item>@drawable/ic_settings_focused</item>
+    </array>
+    <string-array name="labels">
+        <item>@string/local</item>
+        <item>@string/vrplay</item>
+        <item>@string/browser</item>
+        <item>@string/image</item>
+        <item>@string/tools</item>
+    </string-array>
+    <string-array name="labels_yashi">
+        <item>@string/local</item>
+        <item>@string/media</item>
+        <item>@string/camera</item>
+        <item>@string/store</item>
+        <item>@string/settings</item>
+    </string-array>
+    <string-array name="label_tools_hdmi">
+        <item>@string/settings</item>
+        <item>@string/local_player</item>
+        <item>@string/store</item>
+        <item>@string/hdmi</item>
+        <item>@string/file_manage</item>
+    </string-array>
+    <string-array name="label_tools">
+        <item>@string/settings</item>
+        <item>@string/local_player</item>
+        <item>@string/store</item>
+        <item>@string/file_manage</item>
+    </string-array>
+    <string-array name="label_tools_setting">
+        <item>@string/bluetooth</item>
+        <item>@string/popular</item>
+        <item>@string/wifi</item>
+        <item>@string/system</item>
+        <item>@string/account</item>
+    </string-array>
+     <string-array name="label_tools_setting_popular">
+        <item>@string/light</item>
+        <item>@string/voice</item>
+        <item>@string/language</item>
+        <item>@string/theme</item>
+        <item>@string/time_zone</item>
+    </string-array>
+    <array name="popular_icons_default">
+        <item>@drawable/delete_focused</item>
+        <item>@drawable/delete_focused</item>
+        <item>@drawable/delete_focused</item>
+        <item>@drawable/delete_focused</item>
+        <item>@drawable/delete_focused</item>
+    </array>
+   
+    <array name="game_btn_default">
+        <item>@drawable/ic_back_default</item>
+        <item>@drawable/ic_left_default</item>
+        <item>@drawable/ic_right_default</item>
+    </array>
+    <array name="game_btn_focused">
+        <item>@drawable/ic_back_focused</item>
+        <item>@drawable/ic_left_focused</item>
+        <item>@drawable/ic_right_focused</item>
+    </array>
+    <array name="manage_btn_default">
+        <item>@drawable/ic_back_default</item>
+        <item>@drawable/ic_left_default</item>
+        <item>@drawable/ic_right_default</item>
+        <item>@drawable/ic_delete_default</item>
+    </array>
+    <array name="manage_btn_focused">
+        <item>@drawable/ic_back_focused</item>
+        <item>@drawable/ic_left_focused</item>
+        <item>@drawable/ic_right_focused</item>
+        <item>@drawable/ic_delete_focused</item>
+    </array>
+    
+    <string-array name="managetitle">
+         <item>@string/downloading</item>
+        <item>@string/downloaded</item>
+    </string-array>
+</resources>

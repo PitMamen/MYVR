@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Nodownloaddown">无下载完成</string>
+    <string name="Nodownloadtask">无下载任务</string>
+    <string name="account">账户</string>
+    <string name="app_name">应用市场</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="browser">浏览器</string>
+    <string name="camera">相机</string>
+    <string name="downloaded">下载完成</string>
+    <string name="downloading">正在下载</string>
+    <string name="file_manage">文件管理</string>
+    <string name="hdmi">HDMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image">图片</string>
+    <string name="indexaccount">我的信息</string>
+    <string name="indexapp">应用</string>
+    <string name="indexgame">游戏</string>
+    <string name="indexmanage">下载管理</string>
+    <string name="language">语言</string>
+    <string name="light">亮度</string>
+    <string name="local">本地</string>
+    <string name="local_app">本地应用</string>
+    <string name="local_player">本地播放</string>
+    <string name="media">影音</string>
+    <string name="normal_video">视频播放</string>
+    <string name="online">在线影院</string>
+    <string name="panorama">全景照片</string>
+    <string name="panorama_ol">全景OL</string>
+    <string name="panoramic_video">全景视频</string>
+    <string name="photo_wall">照片墙</string>
+    <string name="popular">通用</string>
+    <string name="settings">设置</string>
+    <string name="store">市场</string>
+    <string name="system">系统</string>
+    <string name="theme">主题</string>
+    <string name="time_zone">时区</string>
+    <string name="tools">工具</string>
+    <string name="unconnected">抱歉，网络未连接！</string>
+    <string name="voice">声音</string>
+    <string name="vr_live">唱吧VR</string>
+    <string name="vrplay">播放器</string>
+    <string name="wifi">无线网络</string>
+</resources>

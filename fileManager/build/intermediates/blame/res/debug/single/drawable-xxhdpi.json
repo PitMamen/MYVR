@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MYVR\\fileManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_icon.png",
+        "source": "D:\\MYVR\\fileManager\\src\\main\\res\\drawable-xxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\MYVR\\fileManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filelogo.png",
+        "source": "D:\\MYVR\\fileManager\\src\\main\\res\\drawable-xxhdpi\\filelogo.png"
+    }
+]

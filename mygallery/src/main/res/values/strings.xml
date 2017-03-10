@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gallerys</string>
+    <string name="no_more_last">This is the last picture</string>
+    <string name="no_more_first">This is the first picture</string>
+    <string name="no_pictures">No photos were detected</string>
+</resources>

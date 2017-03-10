@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contents">
+        <item>内部存储容量:</item>
+        <item>SD卡容量:</item>
+        <item>U盘容量:</item>
+    </string-array>
+    <string-array name="kinds">
+        <item>视频</item>
+        <item>图片</item>
+        <item>安装包</item>
+        <item>音乐</item>
+    </string-array>
+    <string-array name="showsize">
+        <item>剩余空间:</item>
+        <item>总空间:</item>
+    </string-array>
+    <string-array name="showstorages">
+        <item>本地存储:</item>
+        <item>SD 卡:</item>
+        <item>U 盘:</item>
+    </string-array>
+    <string-array name="storages">
+        <item>本地存储</item>
+        <item>SD卡</item>
+        <item>U盘</item>
+    </string-array>
+    <string-array name="titles">
+        <item>视频</item>
+        <item>图片</item>
+        <item>安装包</item>
+    </string-array>
+    <string name="SurplusSize">剩余空间:</string>
+    <string name="TotalSize">总空间:</string>
+    <string name="app_name">文件管理</string>
+    <string name="txt_cancel">取 消</string>
+    <string name="txt_confirm">确定</string>
+    <string name="txt_delete">删 除</string>
+    <string name="txt_empty">没有文件</string>
+    <string name="txt_install">安 装</string>
+    <string name="txt_open">打 开</string>
+    <string name="txt_tip_apkerror">安装包已损坏</string>
+    <string name="txt_tip_delete">删除所选文件</string>
+    <string name="txt_tip_install">后台正在安装</string>
+    <string name="txt_tip_install_fail">安装失败</string>
+    <string name="txt_tip_install_finish">安装完成</string>
+    <string name="txt_tip_nospace">存储空间不足</string>
+</resources>

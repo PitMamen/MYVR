@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">照片墙</string>
+    <string name="no_more_last">这是最后一张图片</string>
+    <string name="no_more_first">这是第一张图片</string>
+    <string name="no_pictures">未检测到照片</string>
+</resources>

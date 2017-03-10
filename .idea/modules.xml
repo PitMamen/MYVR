@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LauncherDemo/LauncherDemo.iml" filepath="$PROJECT_DIR$/LauncherDemo/LauncherDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MYVR.iml" filepath="$PROJECT_DIR$/MYVR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileManager/fileManager.iml" filepath="$PROJECT_DIR$/fileManager/fileManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaminoStore/kaminoStore.iml" filepath="$PROJECT_DIR$/kaminoStore/kaminoStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygallery/mygallery.iml" filepath="$PROJECT_DIR$/mygallery/mygallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylauncher/mylauncher.iml" filepath="$PROJECT_DIR$/mylauncher/mylauncher.iml" />
+    </modules>
+  </component>
+</project>

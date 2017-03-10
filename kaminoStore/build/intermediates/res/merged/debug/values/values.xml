@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="game_btn_default">
+        <item>@drawable/ic_back_default</item>
+        <item>@drawable/ic_left_default</item>
+        <item>@drawable/ic_right_default</item>
+    </array>
+    <array name="game_btn_focused">
+        <item>@drawable/ic_back_focused</item>
+        <item>@drawable/ic_left_focused</item>
+        <item>@drawable/ic_right_focused</item>
+    </array>
+    <array name="icons_default">
+        <item>@drawable/icon01</item>
+        <item>@drawable/icon02</item>
+        <item>@drawable/icon04</item>
+        <item>@drawable/icon05</item>
+        <item>@drawable/icon06</item>
+    </array>
+    <array name="icons_focused">
+        <item>@drawable/icon01_b</item>
+        <item>@drawable/icon02_b</item>
+        <item>@drawable/icon04_b</item>
+        <item>@drawable/icon05_b</item>
+        <item>@drawable/icon06_b</item>
+    </array>
+    <array name="icons_yashi_default">
+        <item>@drawable/ic_local_default</item>
+        <item>@drawable/ic_media_default</item>
+        <item>@drawable/ic_camera_default</item>
+        <item>@drawable/ic_store_default</item>
+        <item>@drawable/ic_settings_default</item>
+    </array>
+    <array name="icons_yashi_focused">
+        <item>@drawable/ic_local_focused</item>
+        <item>@drawable/ic_media_focused</item>
+        <item>@drawable/ic_camera_focused</item>
+        <item>@drawable/ic_store_focused</item>
+        <item>@drawable/ic_settings_focused</item>
+    </array>
+    <string-array name="label_tools">
+        <item>@string/settings</item>
+        <item>@string/local_player</item>
+        <item>@string/store</item>
+        <item>@string/file_manage</item>
+    </string-array>
+    <string-array name="label_tools_hdmi">
+        <item>@string/settings</item>
+        <item>@string/local_player</item>
+        <item>@string/store</item>
+        <item>@string/hdmi</item>
+        <item>@string/file_manage</item>
+    </string-array>
+    <string-array name="label_tools_setting">
+        <item>@string/bluetooth</item>
+        <item>@string/popular</item>
+        <item>@string/wifi</item>
+        <item>@string/system</item>
+        <item>@string/account</item>
+    </string-array>
+    <string-array name="label_tools_setting_popular">
+        <item>@string/light</item>
+        <item>@string/voice</item>
+        <item>@string/language</item>
+        <item>@string/theme</item>
+        <item>@string/time_zone</item>
+    </string-array>
+    <string-array name="labels">
+        <item>@string/local</item>
+        <item>@string/vrplay</item>
+        <item>@string/browser</item>
+        <item>@string/image</item>
+        <item>@string/tools</item>
+    </string-array>
+    <string-array name="labels_yashi">
+        <item>@string/local</item>
+        <item>@string/media</item>
+        <item>@string/camera</item>
+        <item>@string/store</item>
+        <item>@string/settings</item>
+    </string-array>
+    <array name="manage_btn_default">
+        <item>@drawable/ic_back_default</item>
+        <item>@drawable/ic_left_default</item>
+        <item>@drawable/ic_right_default</item>
+        <item>@drawable/ic_delete_default</item>
+    </array>
+    <array name="manage_btn_focused">
+        <item>@drawable/ic_back_focused</item>
+        <item>@drawable/ic_left_focused</item>
+        <item>@drawable/ic_right_focused</item>
+        <item>@drawable/ic_delete_focused</item>
+    </array>
+    <string-array name="managetitle">
+         <item>@string/downloading</item>
+        <item>@string/downloaded</item>
+    </string-array>
+    <array name="popular_icons_default">
+        <item>@drawable/delete_focused</item>
+        <item>@drawable/delete_focused</item>
+        <item>@drawable/delete_focused</item>
+        <item>@drawable/delete_focused</item>
+        <item>@drawable/delete_focused</item>
+    </array>
+    <array name="setting_icons_default">
+        <item>@drawable/ic_settings_default</item>
+        <item>@drawable/ic_local_player_default</item>
+        <item>@drawable/ic_store_default</item>
+        <item>@drawable/ic_file_default</item>
+        <item>@drawable/ic_local_default</item>
+    </array>
+    <array name="setting_icons_focused">
+        <item>@drawable/ic_settings_focused</item>
+        <item>@drawable/ic_local_player_focused</item>
+        <item>@drawable/ic_store_focused</item>
+        <item>@drawable/ic_file_focused</item>
+        <item>@drawable/ic_local_focused</item>
+    </array>
+    <array name="tool_icons_default">
+        <item>@drawable/ic_settings_default</item>
+        <item>@drawable/ic_local_player_default</item>
+        <item>@drawable/ic_store_default</item>
+        <item>@drawable/ic_file_default</item>
+    </array>
+    <array name="tool_icons_default_hdmi">
+        <item>@drawable/ic_settings_default</item>
+        <item>@drawable/ic_local_player_default</item>
+        <item>@drawable/ic_store_default</item>
+        <item>@drawable/ic_hdmi_default</item>
+        <item>@drawable/ic_file_default</item>
+    </array>
+    <array name="tool_icons_focused">
+        <item>@drawable/ic_settings_focused</item>
+        <item>@drawable/ic_local_player_focused</item>
+        <item>@drawable/ic_store_focused</item>
+        <item>@drawable/ic_file_focused</item>
+    </array>
+    <array name="tool_icons_focused_hdmi">
+        <item>@drawable/ic_settings_focused</item>
+        <item>@drawable/ic_local_player_focused</item>
+        <item>@drawable/ic_store_focused</item>
+        <item>@drawable/ic_hdmi_focused</item>
+        <item>@drawable/ic_file_focused</item>
+    </array>
+    <color name="bg_back">#90000000</color>
+    <color name="bg_trans">#80000000</color>
+    <color name="blue">#ff0a93f4</color>
+    <color name="text_color">#ffeeeeee</color>
+    <color name="text_color_grey">#ff8b8b8b</color>
+    <color name="white">#ffffffff</color>
+    <item name="vr_view" type="id">false</item>
+    <string name="Nodownloaddown">No downloaded task</string>
+    <string name="Nodownloadtask">No downloading task</string>
+    <string name="account">account</string>
+    <string name="app_name">App Store</string>
+    <string name="bluetooth">bluetooth</string>
+    <string name="browser">Browser</string>
+    <string name="camera">Camera</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="downloading">Downloading</string>
+    <string name="file_manage">FileManager</string>
+    <string name="hdmi">HDMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="image">Photos</string>
+    <string name="indexaccount">Account</string>
+    <string name="indexapp">App</string>
+    <string name="indexgame">Game</string>
+    <string name="indexmanage">Manage</string>
+    <string name="language">language</string>
+    <string name="light">light</string>
+    <string name="local">Apps</string>
+    <string name="local_app">local app</string>
+    <string name="local_player">Video Player</string>
+    <string name="media">Media</string>
+    <string name="normal_video">video play</string>
+    <string name="online">Theatre</string>
+    <string name="panorama">360 Photos</string>
+    <string name="panorama_ol">Pano</string>
+    <string name="panoramic_video">panoramic video</string>
+    <string name="photo_wall">Photo Wall</string>
+    <string name="popular">popular</string>
+    <string name="settings">Settings</string>
+    <string name="store">App Store</string>
+    <string name="system">system</string>
+    <string name="theme">theme</string>
+    <string name="time_zone">time_zone</string>
+    <string name="tools">Tools</string>
+    <string name="unconnected">NetWork not connected</string>
+    <string name="voice">voice</string>
+    <string name="vr_live">Live</string>
+    <string name="vrplay">VRPlay</string>
+    <string name="wifi">wifi</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light"/>
+    <style name="AppTheme" parent="@style/AppBaseTheme"/>
+</resources>

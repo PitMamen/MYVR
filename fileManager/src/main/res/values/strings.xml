@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="txt_empty">no files</string>
+    <string name="txt_confirm">Confirm</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_open">Open</string>
+    <string name="txt_install">Install</string>
+    <string name="txt_tip_delete">Delete the selected file</string>
+    <string name="txt_tip_nospace">No space</string>
+    <string name="txt_tip_apkerror">The package is damaged</string>
+    <string name="txt_tip_install">Installing backstage</string>
+    <string name="txt_tip_install_finish">Installed successfully.</string>
+    <string name="txt_tip_install_fail">Installed failed.</string>
+    <string name="SurplusSize">Surplus:</string>
+    <string name="TotalSize">Total:</string>
+</resources>

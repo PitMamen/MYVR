@@ -1,0 +1,7 @@
+#Fri Mar 10 09:29:57 CST 2017
+base.0=D\:\\MYVR\\fileManager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dfc981387adbf116e287c6d99593222069ff4670
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\MYVR\\fileManager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e71b83a2eff79939283b85f7a39800366b9d2b11\\classes.dex
+base.1=D\:\\MYVR\\fileManager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e71b83a2eff79939283b85f7a39800366b9d2b11
+file.0=D\:\\MYVR\\fileManager\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dfc981387adbf116e287c6d99593222069ff4670\\classes.dex

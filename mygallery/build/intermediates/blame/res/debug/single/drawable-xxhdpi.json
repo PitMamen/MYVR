@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_back_wait.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_back_wait.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\delete_focused.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\delete_focused.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_right_hui.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_right_hui.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_delete.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_delete_focused.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_delete_focused.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_delete_red.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_delete_red.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_left_blu.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_left_blu.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_delete_blu.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_delete_blu.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\delete.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\imagelogo.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\imagelogo.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_right.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_right.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_icon.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_delete_default.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_delete_default.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_right_blu.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_right_blu.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_back_blu.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_back_blu.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_left_hui.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_left_hui.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_left.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_left.png"
+    },
+    {
+        "merged": "D:\\MYVR\\mygallery\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_back_hui.png",
+        "source": "D:\\MYVR\\mygallery\\src\\main\\res\\drawable-xxhdpi\\ic_back_hui.png"
+    }
+]

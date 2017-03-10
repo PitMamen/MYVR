@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Store</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="local">Apps</string>
+    <string name="store">App Store</string>
+    <string name="online">Theatre</string>
+    <string name="media">Media</string>
+    <string name="panorama_ol">Pano</string>
+    <string name="vr_live">Live</string>
+    <string name="tools">Tools</string>
+    <string name="image">Photos</string>
+    <string name="camera">Camera</string>
+    <string name="settings">Settings</string>
+    <string name="local_player">Video Player</string>
+    <string name="hdmi">HDMI</string>
+    <string name="file_manage">FileManager</string>
+    <string name="photo_wall">Photo Wall</string>
+    <string name="panorama">360 Photos</string>
+    <string name="normal_video">video play</string>
+    <string name="panoramic_video">panoramic video</string>
+    <string name="local_app">local app</string>
+    <string name="bluetooth">bluetooth</string>
+    <string name="popular">popular</string>
+    <string name="wifi">wifi</string>
+    <string name="system">system</string>
+    <string name="account">account</string>
+     <string name="light">light</string>
+    <string name="voice">voice</string>
+    <string name="language">language</string>
+    <string name="theme">theme</string>
+    <string name="time_zone">time_zone</string>
+    <string name="vrplay">VRPlay</string>
+    <string name="browser">Browser</string>
+    <string name="indexgame">Game</string>
+    <string name="indexapp">App</string>
+    <string name="indexaccount">Account</string>
+    <string name="indexmanage">Manage</string>
+    <string name="unconnected">NetWork not connected</string>
+     <string name="downloading">Downloading</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="Nodownloadtask">No downloading task</string>
+    <string name="Nodownloaddown">No downloaded task</string>
+</resources>

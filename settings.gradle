@@ -1,0 +1,2 @@
+include  ':mylauncher', 'LauncherDemo','mygallery','fileManager'
+include ':kaminoStore'
